@@ -1,6 +1,6 @@
 ## FPS | Frost Protection System
 
-![Frost](https://www.dropbox.com/s/3yzk2a96t1zbnx1/FPS%20mraz.jpg?dl=0)
+![Frost](https://cdn.shopify.com/s/files/1/2469/7143/files/FPS_pojava_mraza.gif?v=1614335668)
 
 # Mission
 
