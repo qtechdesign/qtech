@@ -16,6 +16,8 @@ Our vision for the Frost Protection System (FPS) is to create an open source pla
 
 # System description
 
+![technology FPS](https://cdn.shopify.com/s/files/1/2469/7143/files/FPS_GDPR.jpg?v=1614335627)
+
 ## Multisensor node
 
 The Frost Protection System (FPS) Multisensor is a device designed to provide real-time data on weather conditions and frost protection systems. The device features an integrated solar regulator for 12V battery charging, and operates on 5V power. It can collect data from multiple sensors every 3 minutes, and can also be set to sleep mode between readings. The Multisensor is optimized to consume low amounts of power, making it suitable for use in low voltage devices (above 12V). With its user-friendly interface and easy setup, the FPS Multisensor is the perfect solution for monitoring weather conditions and improving yields.
