@@ -1,5 +1,7 @@
 ## FPS | Frost Protection System
 
+![Frost](https://www.dropbox.com/s/3yzk2a96t1zbnx1/FPS%20mraz.jpg?dl=0)
+
 # Mission
 
 The mission of the Frost Protection System (FPS) is to enable sustainable food and biosystem production through the integration of software and hardware solutions. FPS enables farmers to maximize their yields while minimizing costs by collecting system, time, and production data from various micro-locations and using smart analytics to improve production characteristics. With its focus on the user, continuous improvement, and technical innovation, FPS is uniquely positioned for rapid growth. 
