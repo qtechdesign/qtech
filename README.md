@@ -38,11 +38,14 @@ The Frost Protection System (FPS) Cloud Device is a comprehensive microclimate s
 
 # Drvoplast Maslačak
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFGM2KjQss&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFGM2KjQss&#x2F;watch?utm_content=DAFGM2KjQss&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Drvoplast | Maslačak</a> by Ivan Jovic
+[fog](https://cdn.shopify.com/videos/c/o/v/baebd629095e49f58456fab5d803a2af.mp4)
+
+Introducing hot air into the system can produce a fog, but it depends on the specific system and the conditions in which the hot air is introduced. In a frost protection system, the goal is to create a microclimate with 100% relative humidity to protect crops from frost damage. This is typically achieved by using irrigation to create a mist or fog that surrounds the crops and maintains the temperature above freezing. If hot air is introduced into the system, it can raise the temperature and reduce the relative humidity, which would make it less effective at protecting crops from frost. 
+
+Introducing the underground hot air at 100% relative humidity (RH) and a temperature around 8°C into an orchard microclimate with -10°C and 95% RH would create a fog. The hot air would cause the temperature in the orchard to rise, and the high humidity would cause the air to reach 100% relative humidity. As the air temperature rises and the humidity increases, the difference between the air temperature and the dew point temperature will decrease, which will cause the air to cool to its dew point temperature. This cooling process will cause the water vapor in the air to condense into droplets, creating a fog.
+
+The fog would help to protect the crops from frost damage by maintaining a higher temperature around the crops, and by creating a protective layer of ice on the crops. The fog would also help to maintain a high relative humidity, which would prevent water droplets from evaporating before they reach the crops.
+
+However, it's important to note that the success of this method would depend on the specific system, weather conditions, and the type of crops you are protecting. It would be best to contact us to discuss possible system integration.
+
+
