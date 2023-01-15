@@ -38,6 +38,8 @@ The Frost Protection System (FPS) Cloud Device is a comprehensive microclimate s
 
 ## [PIP 2.0](https://qtech.hr/en/products/pip-pulsator-2-0)
 
+![PIP 2.0](https://cdn.shopify.com/s/files/1/2469/7143/files/OPG_Stjepan_Car_kisenje_2d9bd0e5-cb71-4a67-843f-21487bbf0e29.gif?v=1673775988)
+
 PIP 2.0 sprayer kit is the best ratio of water energy consumption and rainfall efficiency on the protected surface of the frost protection system. The sprayer has a rainfall range of 5 meters at a pressure of 1 bar (water column 10 m). Uniform water flow in the range of 1-4 bar (water column 10--40m). Pulsating sprayer PIP 2.0 ensures a constant rainfall intensity in the range of 1.2-2.0 mm / m2 / h (depending on the installation microlocation and the design of the frost protection system, a grid on which pulsators are placed is defined).
 
 ## Fog
