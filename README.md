@@ -36,9 +36,13 @@ The Frost Protection System (FPS) Communication Device is a secure and reliable 
 
 The Frost Protection System (FPS) Cloud Device is a comprehensive microclimate solution for agricultural production. The device collects and stores data from various micro-locations, such as temperature, humidity, light intensity, and soil moisture, to provide farmers with real-time insights into their production environment. The device is powered by a secure cloud platform that is compliant with GDPR regulations and designed for optimal cyber security. Data is collected and transmitted securely using encrypted protocols to ensure that the data is not intercepted or tampered with during transmission. With its user-friendly interface and intuitive analytics, FPS Cloud Device allows farmers to make informed decisions about their crop production in order to maximize yields while minimizing costs.
 
-# Drvoplast Maslačak
+## [PIP 2.0](https://qtech.hr/en/products/pip-pulsator-2-0)
 
-[fog](https://cdn.shopify.com/videos/c/o/v/baebd629095e49f58456fab5d803a2af.mp4)
+PIP 2.0 sprayer kit is the best ratio of water energy consumption and rainfall efficiency on the protected surface of the frost protection system. The sprayer has a rainfall range of 5 meters at a pressure of 1 bar (water column 10 m). Uniform water flow in the range of 1-4 bar (water column 10--40m). Pulsating sprayer PIP 2.0 ensures a constant rainfall intensity in the range of 1.2-2.0 mm / m2 / h (depending on the installation microlocation and the design of the frost protection system, a grid on which pulsators are placed is defined).
+
+## Fog
+
+[fog]([https://cdn.shopify.com/videos/c/o/v/baebd629095e49f58456fab5d803a2af.mp4](https://cdn.shopify.com/s/files/1/2469/7143/files/Hrvatske_sume_divlja_tresnja_mraz_2021.jpg?v=1644331256))
 
 Introducing hot air into the system can produce a fog, but it depends on the specific system and the conditions in which the hot air is introduced. In a frost protection system, the goal is to create a microclimate with 100% relative humidity to protect crops from frost damage. This is typically achieved by using irrigation to create a mist or fog that surrounds the crops and maintains the temperature above freezing. If hot air is introduced into the system, it can raise the temperature and reduce the relative humidity, which would make it less effective at protecting crops from frost. 
 
@@ -47,5 +51,7 @@ Introducing the underground hot air at 100% relative humidity (RH) and a tempera
 The fog would help to protect the crops from frost damage by maintaining a higher temperature around the crops, and by creating a protective layer of ice on the crops. The fog would also help to maintain a high relative humidity, which would prevent water droplets from evaporating before they reach the crops.
 
 However, it's important to note that the success of this method would depend on the specific system, weather conditions, and the type of crops you are protecting. It would be best to contact us to discuss possible system integration.
+
+# [Drvoplast Maslačak](https://drvoplast.com/)
 
 
