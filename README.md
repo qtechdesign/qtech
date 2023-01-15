@@ -35,3 +35,14 @@ The Frost Protection System (FPS) Communication Device is a secure and reliable 
 ## Cloud device
 
 The Frost Protection System (FPS) Cloud Device is a comprehensive microclimate solution for agricultural production. The device collects and stores data from various micro-locations, such as temperature, humidity, light intensity, and soil moisture, to provide farmers with real-time insights into their production environment. The device is powered by a secure cloud platform that is compliant with GDPR regulations and designed for optimal cyber security. Data is collected and transmitted securely using encrypted protocols to ensure that the data is not intercepted or tampered with during transmission. With its user-friendly interface and intuitive analytics, FPS Cloud Device allows farmers to make informed decisions about their crop production in order to maximize yields while minimizing costs.
+
+# Drvoplast Maslačak
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFGM2KjQss&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFGM2KjQss&#x2F;watch?utm_content=DAFGM2KjQss&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Drvoplast | Maslačak</a> by Ivan Jovic
