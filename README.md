@@ -54,6 +54,17 @@ The fog would help to protect the crops from frost damage by maintaining a highe
 
 However, it's important to note that the success of this method would depend on the specific system, weather conditions, and the type of crops you are protecting. It would be best to contact us to discuss possible system integration.
 
-# [Drvoplast Maslačak](https://drvoplast.com/)
+# [Drvoplast | Maslačak](https://drvoplast.com/)
 
+Maslačak is a web platform developed by Qtech in partnership with FMENA and the University of Zagreb. The platform aims to increase the competitiveness of production in the Republic of Croatia by applying advanced technologies, IRI activities, and establishing high standards of environmental acceptability of production.
+
+Through the use of innovative technology, the platform aims to improve the efficiency of the agricultural sector and promote sustainable agricultural production. This will be achieved through the use of advanced technologies such as precision farming and weather forecasting, as well as the implementation of R&D activities to optimize crop yields and reduce environmental impact.
+
+The platform also aims to establish high standards of environmental acceptability of production, which will indirectly promote sustainable agricultural production and more efficient operations of the agricultural sector.
+
+In addition to this, Maslačak also accepts donations in Bitcoin, the address for donations is bc1q2pds7sj3per9le4362v3vu43dxucjh5vjkg9mc
+
+The platform is aligned with the goal of [FSB | R&D](https://trello.com/invite/b/gbMGnvT7/4dd540d37d4b5f410ca93dd5b20646fc/fsb-r-d) which is to research and develop new technologies and methods to improve the agricultural sector.
+
+![Maslačak](https://img1.wsimg.com/isteam/ip/bbb14547-5d8a-4be3-b0c2-98abfcb35d75/IMG_20220217_111940-0001.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)
 
