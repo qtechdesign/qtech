@@ -42,7 +42,7 @@ PIP 2.0 sprayer kit is the best ratio of water energy consumption and rainfall e
 
 ## Fog
 
-![fog](https://www.canva.com/design/DAFGM2KjQss/KUhwi-YxKuMn1P6QL9RVhg/watch?utm_content=DAFGM2KjQss&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![fog](https://cdn.shopify.com/s/files/1/2469/7143/files/Drvoplast_Maslacak_Fog.gif?v=1673774170)
 
 Introducing hot air into the system can produce a fog, but it depends on the specific system and the conditions in which the hot air is introduced. In a frost protection system, the goal is to create a microclimate with 100% relative humidity to protect crops from frost damage. This is typically achieved by using irrigation to create a mist or fog that surrounds the crops and maintains the temperature above freezing. If hot air is introduced into the system, it can raise the temperature and reduce the relative humidity, which would make it less effective at protecting crops from frost. 
 
