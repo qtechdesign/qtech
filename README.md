@@ -65,7 +65,7 @@ The platform also aims to establish high standards of environmental acceptabilit
 
 In addition to this, Maslačak also accepts donations in Bitcoin, the address for donations is bc1q2pds7sj3per9le4362v3vu43dxucjh5vjkg9mc
 
-The platform is aligned with the goal of [FSB | R&D]((https://trello.com/b/gbMGnvT7/fsb-rd)) which is to research and develop new technologies and methods to improve the agricultural sector.
+The platform is aligned with the goal of [FSB | R&D](https://trello.com/b/gbMGnvT7/fsb-rd) which is to research and develop new technologies and methods to improve the agricultural sector.
 
-![Maslačak]((https://g.co/kgs/RtyRTaS))
+![Maslačak](https://g.co/kgs/RtyRTaS)
 
